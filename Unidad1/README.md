@@ -51,8 +51,8 @@ Unidad1/
 
 | Actividad | Tema Principal | Recursos Gráficos Clave | Documento Técnico | Documentación Detallada |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Tarea 1.1](./Tarea1.1/README.md)** | Fundamentos, objetivos primordiales, áreas de aplicación y comparativa exhaustiva de modelos de datos. | • [Mapa Conceptual (SVG)](./Tarea1.1/mapa_conceptual.svg) / [(PNG)](./Tarea1.1/mapa_conceptual.png)<br>• [Tabla Comparativa (SVG)](./Tarea1.1/tabla_comparativa.svg) / [(PNG)](./Tarea1.1/tabla_comparativa.png) | 📄 [Tarea1.1.pdf](./Tarea1.1/Tarea1.1.pdf) | 📖 [README Tarea 1.1](./Tarea1.1/README.md) |
-| **[Tarea 1.2](./Tarea1.2/README.md)** | Taxonomía de bases de datos, arquitectura de 3 niveles ANSI/SPARC y arquitectura funcional del SGBD. | • [Cuadro Sinóptico (SVG)](./Tarea1.2/cuadro_sinoptico.svg) / [(PNG)](./Tarea1.2/cuadro_sinoptico.png)<br>• [ANSI/SPARC (SVG)](./Tarea1.2/arquitectura_ansisparc.svg) / [(PNG)](./Tarea1.2/arquitectura_ansisparc.png)<br>• [Motor SGBD (SVG)](./Tarea1.2/arquitectura_sgbd.svg) / [(PNG)](./Tarea1.2/arquitectura_sgbd.png) | 📄 [Tarea1.2.docx](./Tarea1.2/Tarea1.2.docx) | 📖 [README Tarea 1.2](./Tarea1.2/README.md) |
+| **[Tarea 1.1](./Tarea1.1/README.md)** | Fundamentos, objetivos primordiales, áreas de aplicación y comparativa exhaustiva de modelos de datos. | • [Mapa Conceptual (PNG)(./Tarea1.1/mapa_conceptual.png)<br>• (PNG)(./Tarea1.1/tabla_comparativa.png) | 📄 [Tarea1.1.pdf](./Tarea1.1/Tarea1.1.pdf) | 📖 [README Tarea 1.1](./Tarea1.1/README.md) |
+| **[Tarea 1.2](./Tarea1.2/README.md)** | Taxonomía de bases de datos, arquitectura de 3 niveles ANSI/SPARC y arquitectura funcional del SGBD. | • [Cuadro Sinóptico (PNG)(./Tarea1.2/cuadro_sinoptico.png)<br>• (PNG)(./Tarea1.2/arquitectura_ansisparc.png)<br>• (PNG)(./Tarea1.2/arquitectura_sgbd.png) | 📄 [Tarea1.2.pdf(./Tarea1.2/Tarea1.2.pdf) | 📖 [README Tarea 1.2](./Tarea1.2/README.md) |
 
 ---
 
