@@ -33,7 +33,6 @@ Unidad3/
     └── verificar.sql
 ```
 
-Consulta las [instrucciones de la unidad](./ACT.md).
 
 ---
 
