@@ -12,11 +12,11 @@
 
 ## 📦 Entregables de la Actividad
 
-* 📑 **Documento Formal (.docx):** [Tarea1.2_Clasificacion_Arquitecturas_BD.docx](./Tarea1.2_Clasificacion_Arquitecturas_BD.docx)
+* 📑 **Documento Formal (.pdf):** [Tarea1.2.pdf](./Tarea1.2.pdf)
 * 🖼️ **Cuadro Sinóptico de Clasificación:** [cuadro_sinoptico.png](./cuadro_sinoptico.png) | [Vector SVG](./cuadro_sinoptico.svg)
 * 🖼️ **Arquitectura de Tres Niveles ANSI/SPARC:** [arquitectura_ansisparc.png](./arquitectura_ansisparc.png) | [Vector SVG](./arquitectura_ansisparc.svg)
 * 🖼️ **Arquitectura Funcional Interna del SGBD:** [arquitectura_sgbd.png](./arquitectura_sgbd.png) | [Vector SVG](./arquitectura_sgbd.svg)
-* 🎥 **Video Explicativo en YouTube:** [Video en YouTube](ENLACE_AQUI) *(Enlace para agregar manualmente)*
+* 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
 
 ---
 
