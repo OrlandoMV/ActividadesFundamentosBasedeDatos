@@ -20,17 +20,13 @@ El modelo E-R de TecSoporte Monclova se convierte en un esquema relacional de oc
 
 ```plaintext
 Unidad3/
-├── ACT.md
-├── ActUnidad3.txt
 ├── README.md
 ├── Tarea3.1/
 │   ├── README.md
-│   ├── TODO.md
 │   ├── Tarea3.1.pdf
 │   └── esquema_relacional.png
 └── Tarea3.2/
     ├── README.md
-    ├── TODO.md
     ├── Tarea3.2.pdf
     ├── esquema_fisico.png
     ├── schema.sql
