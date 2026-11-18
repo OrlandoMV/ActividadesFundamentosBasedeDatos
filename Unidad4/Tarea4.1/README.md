@@ -13,7 +13,7 @@
 
 - 📑 **Reporte técnico** · [Tarea4.1.pdf](./Tarea4.1.pdf)
 - 🖼️ **Recurso gráfico** · [mapa_conceptual.png](./mapa_conceptual.png)
-- 🎥 **Video explicativo** · [Guion y pendientes](./TODO.md)
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
 
 ---
 
