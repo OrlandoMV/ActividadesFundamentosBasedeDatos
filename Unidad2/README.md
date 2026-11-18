@@ -21,24 +21,19 @@ La **Unidad 2** aplica el modelo entidad–relación al diseño conceptual de **
 
 ```plaintext
 Unidad2/
-├── ACT.md                  # Instrucciones de las actividades
-├── README.md               # Índice general de la unidad
-├── generar_entregables.py  # Generación de diagramas y reportes
-│
+├── README.md
 ├── Tarea2.1/
-│   ├── README.md           # Desarrollo del modelo conceptual
-│   ├── TODO.md             # Pendientes y guion de exposición
-│   ├── Tarea2.1.pdf        # Documento académico
-│   ├── modelo_er.*         # Relaciones y cardinalidades en notación Chen
-│   ├── atributos_er.*      # Diccionario gráfico de atributos
-│   └── modelo_eer.*        # Especialización y agregación
+│   ├── README.md
+│   ├── Tarea2.1.pdf
+│   ├── modelo_er
+│   ├── atributos_er
+│   └── modelo_eer
 │
 └── Tarea2.2/
-    ├── README.md           # Conversión y comparación entre E-R y UML
-    ├── TODO.md             # Pendientes y guion de exposición
-    ├── Tarea2.2.pdf        # Documento académico
-    ├── clases_dominio.*    # Clases de clientes, equipos y órdenes
-    └── clases_personal.*   # Herencia, personal y asignaciones
+    ├── README.md
+    ├── Tarea2.2.pdf
+    ├── clases_dominio
+    └── clases_personal
 ```
 
 Consulta las [instrucciones de las actividades](./ACT.md). Cada recurso marcado con `.*` tiene archivos independientes en SVG, PNG, PDF vectorial y draw.io.
