@@ -22,27 +22,20 @@ Este directorio centraliza las actividades académicas desarrolladas para la uni
 
 ```plaintext
 Unidad1/
-├── ACT.md                      # Descripción institucional de instrucciones y actividades
-├── README.md                   # Índice general y documentación de la Unidad 1 (este archivo)
+├── README.md
 │
-├── Tarea1.1/                   # Tarea 1.1: Fundamentos, Objetivos y Modelos de BD
-│   ├── README.md               # Documentación teórica, mapa conceptual y tabla comparativa
-│   ├── Tarea1.1.pdf            # Documento formal con portada y desarrollo académico
-│   ├── mapa_conceptual.png     # Render de alta resolución (6667x2362 px)
-│   ├── mapa_conceptual.svg     # Archivo fuente vectorial editable del mapa conceptual
-│   ├── tabla_comparativa.png   # Render de alta resolución (5945x4634 px)
-│   └── tabla_comparativa.svg   # Archivo fuente vectorial editable de la tabla de modelos
+├── Tarea1.1/
+│   ├── README.md
+│   ├── Tarea1.1.pdf
+│   ├── mapa_conceptual.png
+│   ├── tabla_comparativa.png
 │
-└── Tarea1.2/                   # Tarea 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD)
-    ├── README.md               # Documentación teórica, cuadro sinóptico y arquitecturas
-    ├── Tarea1.2.pdf           # Documento formal con portada institucional (.pdf)
-    ├── generar_diagramas.py    # Script de automatización para exportar diagramas SVG/PNG
-    ├── cuadro_sinoptico.png    # Render de alta resolución del cuadro de clasificación
-    ├── cuadro_sinoptico.svg    # Archivo fuente vectorial del cuadro sinóptico
-    ├── arquitectura_ansisparc.png  # Diagrama de tres niveles de abstracción ANSI/SPARC
-    ├── arquitectura_ansisparc.svg  # Archivo vectorial de la arquitectura ANSI/SPARC
-    ├── arquitectura_sgbd.png   # Diagrama de módulos internos funcionales del SGBD
-    └── arquitectura_sgbd.svg   # Archivo vectorial de la arquitectura interna del SGBD
+└── Tarea1.2/
+    ├── README.md
+    ├── Tarea1.2.pdf
+    ├── cuadro_sinoptico.png
+    ├── arquitectura_ansisparc.png
+    ├── arquitectura_sgbd.png
 ```
 
 ---
