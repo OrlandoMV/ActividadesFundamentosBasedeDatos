@@ -36,8 +36,6 @@ Unidad2/
     └── clases_personal
 ```
 
-Consulta las [instrucciones de las actividades](./ACT.md). Cada recurso marcado con `.*` tiene archivos independientes en SVG, PNG, PDF vectorial y draw.io.
-
 ---
 
 ## 📑 Resumen de Actividades
