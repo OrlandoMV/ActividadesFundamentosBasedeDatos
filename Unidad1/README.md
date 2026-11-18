@@ -35,7 +35,7 @@ Unidad1/
 │
 └── Tarea1.2/                   # Tarea 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD)
     ├── README.md               # Documentación teórica, cuadro sinóptico y arquitecturas
-    ├── Tarea1.2.docx           # Documento formal con portada institucional (.docx)
+    ├── Tarea1.2.pdf           # Documento formal con portada institucional (.pdf)
     ├── generar_diagramas.py    # Script de automatización para exportar diagramas SVG/PNG
     ├── cuadro_sinoptico.png    # Render de alta resolución del cuadro de clasificación
     ├── cuadro_sinoptico.svg    # Archivo fuente vectorial del cuadro sinóptico
@@ -51,8 +51,8 @@ Unidad1/
 
 | Actividad | Tema Principal | Recursos Gráficos Clave | Documento Técnico | Documentación Detallada |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Tarea 1.1](./Tarea1.1/README.md)** | Fundamentos, objetivos primordiales, áreas de aplicación y comparativa exhaustiva de modelos de datos. | • [Mapa Conceptual (PNG)(./Tarea1.1/mapa_conceptual.png)<br>• (PNG)(./Tarea1.1/tabla_comparativa.png) | 📄 [Tarea1.1.pdf](./Tarea1.1/Tarea1.1.pdf) | 📖 [README Tarea 1.1](./Tarea1.1/README.md) |
-| **[Tarea 1.2](./Tarea1.2/README.md)** | Taxonomía de bases de datos, arquitectura de 3 niveles ANSI/SPARC y arquitectura funcional del SGBD. | • [Cuadro Sinóptico (PNG)(./Tarea1.2/cuadro_sinoptico.png)<br>• (PNG)(./Tarea1.2/arquitectura_ansisparc.png)<br>• (PNG)(./Tarea1.2/arquitectura_sgbd.png) | 📄 [Tarea1.2.pdf(./Tarea1.2/Tarea1.2.pdf) | 📖 [README Tarea 1.2](./Tarea1.2/README.md) |
+| **[Tarea 1.1](./Tarea1.1/README.md)** | Fundamentos, objetivos primordiales, áreas de aplicación y comparativa exhaustiva de modelos de datos. | • [Mapa Conceptual (PNG)](./Tarea1.1/mapa_conceptual.png)<br>• [Tabla Comparativa (PNG)](./Tarea1.1/tabla_comparativa.png) | 📄 [Tarea1.1.pdf](./Tarea1.1/Tarea1.1.pdf) | 📖 [README Tarea 1.1](./Tarea1.1/README.md) |
+| **[Tarea 1.2](./Tarea1.2/README.md)** | Taxonomía de bases de datos, arquitectura de 3 niveles ANSI/SPARC y arquitectura funcional del SGBD. | • [Cuadro Sinóptico (PNG)](./Tarea1.2/cuadro_sinoptico.png)<br>• [ANSI/SPARC (PNG)](./Tarea1.2/arquitectura_ansisparc.png)<br>• [Motor SGBD (PNG)](./Tarea1.2/arquitectura_sgbd.png) | 📄 [Tarea1.2.pdf](./Tarea1.2/Tarea1.2.pdf) | 📖 [README Tarea 1.2](./Tarea1.2/README.md) |
 
 ---
 
@@ -87,8 +87,8 @@ Unidad1/
    * **NoSQL Grafos:** Modelado mediante nodos, aristas dirigidas y propiedades con adyacencia libre de índices (ej. Neo4j).
 
 ### Recursos Gráficos Destacados:
-* 🖼️ **Mapa Conceptual Analítico:** Disponible en [mapa_conceptual.png](./Tarea1.1/mapa_conceptual.png) y fuente vectorial en [mapa_conceptual.svg](./Tarea1.1/mapa_conceptual.svg).
-* 📊 **Tabla Comparativa de Modelos:** Disponible en [tabla_comparativa.png](./Tarea1.1/tabla_comparativa.png) y vector en [tabla_comparativa.svg](./Tarea1.1/tabla_comparativa.svg).
+* 🖼️ **Mapa Conceptual Analítico:** Disponible en [mapa_conceptual.png](./Tarea1.1/mapa_conceptual.png).
+* 📊 **Tabla Comparativa de Modelos:** Disponible en [tabla_comparativa.png](./Tarea1.1/tabla_comparativa.png).
 
 ---
 
@@ -117,9 +117,9 @@ Unidad1/
    * **Espacio de Persistencia en Disco:** Archivos de datos, catálogo del sistema (metadatos), archivos de índices y registros de bitácora transaccional (*WAL logs*).
 
 ### Recursos Gráficos Destacados:
-* 🗂️ **Cuadro Sinóptico de Clasificación:** [cuadro_sinoptico.png](./Tarea1.2/cuadro_sinoptico.png) | [Vector SVG](./Tarea1.2/cuadro_sinoptico.svg)
-* 🏛️ **Arquitectura de Tres Niveles ANSI/SPARC:** [arquitectura_ansisparc.png](./Tarea1.2/arquitectura_ansisparc.png) | [Vector SVG](./Tarea1.2/arquitectura_ansisparc.svg)
-* ⚙️ **Arquitectura Funcional Interna del SGBD:** [arquitectura_sgbd.png](./Tarea1.2/arquitectura_sgbd.png) | [Vector SVG](./Tarea1.2/arquitectura_sgbd.svg)
+* 🗂️ **Cuadro Sinóptico de Clasificación:** [cuadro_sinoptico.png](./Tarea1.2/cuadro_sinoptico.png)
+* 🏛️ **Arquitectura de Tres Niveles ANSI/SPARC:** [arquitectura_ansisparc.png](./Tarea1.2/arquitectura_ansisparc.png)
+* ⚙️ **Arquitectura Funcional Interna del SGBD:** [arquitectura_sgbd.png](./Tarea1.2/arquitectura_sgbd.png)
 * 🐍 **Script de Automatización Python:** [generar_diagramas.py](./Tarea1.2/generar_diagramas.py)
 
 ---
