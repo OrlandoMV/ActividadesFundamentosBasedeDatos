@@ -15,7 +15,7 @@
 - 📑 **Documento en PDF** · [Tarea2.2.pdf](./Tarea2.2.pdf)
 - 🖼️ **Clases de dominio** · [PNG](./clases_dominio.png)
 - 🖼️ **Clases de personal y asignaciones** · [PNG](./clases_personal.png)
-- 🎥 **Video explicativo** · Grabación y publicación pendientes. [Guion y pendientes](./TODO.md).
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
 
 ---
 
