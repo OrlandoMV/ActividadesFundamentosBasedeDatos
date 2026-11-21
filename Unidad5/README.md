@@ -20,25 +20,19 @@ La unidad estudia los operadores del álgebra relacional y los aplica a consulta
 
 ```plaintext
 Unidad5/
-├── ACT.md                       # Instrucciones de las actividades
-├── ActUnidad5.txt               # Consigna original
-├── README.md                   # Índice general de la unidad
+├── README.md
 ├── Tarea5.1/
-│   ├── README.md               # Desarrollo y ejemplos de operadores
-│   ├── TODO.md                 # Guion y pendientes de entrega
-│   ├── Tarea5.1.pdf             # Documento académico
+│   ├── README.md
+│   ├── Tarea5.1.pdf
 │   └── mapa_algebra_relacional.png
 └── Tarea5.2/
-    ├── README.md               # Catálogo y tablas de resultados
-    ├── TODO.md                 # Guion y pendientes de entrega
-    ├── Tarea5.2.pdf             # Reporte de consultas
-    ├── Tarea5.2.docx            # Versión editable del reporte
-    ├── flujo_consulta.png       # Diagrama de la consulta 9
-    ├── consultas.sql           # Datos de práctica y consultas equivalentes
-    ├── validar.py              # Validación de resultados en SQLite
-    ├── practica_sql_server.sql # Esquema y datos de práctica para SQL Server
-    ├── verificar_sql_server.sql # Verificación de las 11 consultas en SQL Server
-    └── evidencia_ssms.png      # Captura de los resultados en SSMS
+    ├── README.md
+    ├── Tarea5.2.pdf
+    ├── flujo_consulta.png
+    ├── consultas.sql
+    ├── practica_sql_server.sql
+    ├── verificar_sql_server.sql
+    └── evidencia_ssms.png
 ```
 
 Consulta las [instrucciones](./ACT.md).
