@@ -13,8 +13,7 @@
 
 - 📑 **Reporte técnico** · [Tarea5.1.pdf](./Tarea5.1.pdf)
 - 🖼️ **Mapa conceptual** · [mapa_algebra_relacional.png](./mapa_algebra_relacional.png)
-- 🎥 **Video explicativo** · ()
-
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
 ---
 
 ## 1. Modelo y notación
