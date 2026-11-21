@@ -39,7 +39,6 @@ Unidad6/
     └── 07_codigo_borrado_m2_y_m3.png
 ```
 
-Consulta las [instrucciones de la unidad](./ACT.md).
 
 ---
 
