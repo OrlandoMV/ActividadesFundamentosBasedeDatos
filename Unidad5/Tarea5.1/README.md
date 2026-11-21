@@ -13,7 +13,7 @@
 
 - 📑 **Reporte técnico** · [Tarea5.1.pdf](./Tarea5.1.pdf)
 - 🖼️ **Mapa conceptual** · [mapa_algebra_relacional.png](./mapa_algebra_relacional.png)
-- 🎥 **Video explicativo** · [Guion y pendientes](./TODO.md)
+- 🎥 **Video explicativo** · ()
 
 ---
 
