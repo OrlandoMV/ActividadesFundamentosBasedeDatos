@@ -82,10 +82,8 @@ Unidad5/
 
 ### Reproducción de la Práctica
 
-- **SQLite.** Desde la raíz del repositorio, ejecuta `python Unidad5/Tarea5.2/validar.py`. El archivo [consultas.sql](./Tarea5.2/consultas.sql) contiene los datos ficticios y las consultas equivalentes.
-- **SQL Server.** En la base de práctica `TecSoporte_Unidad5_Practica`, carga el esquema y los datos con [practica_sql_server.sql](./Tarea5.2/practica_sql_server.sql) si la base está vacía. Ejecuta [verificar_sql_server.sql](./Tarea5.2/verificar_sql_server.sql) para comprobar las once consultas.
 
-La [versión editable del reporte](./Tarea5.2/Tarea5.2.docx) está disponible en Word.
+- **SQL Server.** En la base de práctica `TecSoporte_Unidad5_Practica`, carga el esquema y los datos con [practica_sql_server.sql](./Tarea5.2/practica_sql_server.sql) si la base está vacía. Ejecuta [verificar_sql_server.sql](./Tarea5.2/verificar_sql_server.sql) para comprobar las once consultas.
 
 ---
 
