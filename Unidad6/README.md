@@ -20,16 +20,12 @@ La unidad implementa en SQL Server el modelo de TecSoporte Monclova. Los comando
 
 ```plaintext
 Unidad6/
-├── ACT.md
-├── ActUnidad6.txt
 ├── README.md
 ├── Tarea6.1/
 │   ├── README.md
-│   ├── TODO.md
 │   └── Tarea6.1.pdf
 └── Tarea6.2/
     ├── README.md
-    ├── TODO.md
     ├── Tarea6.2.pdf
     ├── 01_schema_ddl.sql
     ├── 02_data_inserts.sql
