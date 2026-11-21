@@ -64,15 +64,35 @@ La ejecución en SSMS confirmó la creación de ocho tablas y la carga de 23 fil
 
 **Figura 1. Creación, carga y órdenes cerradas (C1).** La base tiene 8 tablas y la carga suma 23 filas. Los folios 17 y 19 están cerrados.
 
-![Figura 1. Creación, carga y órdenes cerradas (C1)](<./Captura de pantalla 2026-11-21 134802.png>)
+![Figura 1. Creación, carga y órdenes cerradas (C1)](./01_resultados_esquema_carga_c1.png)
 
 **Figura 2. Consultas de órdenes y catálogo (C2 a C5).** Se ven los totales 500.00 y 175.00, los conteos por equipo y los indicadores del catálogo. Solo el equipo 8 tiene dos o más órdenes.
 
-![Figura 2. Consultas de órdenes y catálogo (C2 a C5)](<./Captura de pantalla 2026-11-21 134808.png>)
+![Figura 2. Consultas de órdenes y catálogo (C2 a C5)](./02_resultados_consultas_c2_a_c5.png)
 
 **Figura 3. Pruebas de mantenimiento (M1 a M3).** El precio base vuelve a 175.00. La clave foránea devuelve el error 547 al intentar borrar un servicio referenciado. La prueba de borrado permitido elimina y restaura una fila.
 
-![Figura 3. Pruebas de mantenimiento (M1 a M3)](<./Captura de pantalla 2026-11-21 134812.png>)
+![Figura 3. Pruebas de mantenimiento (M1 a M3)](./03_resultados_mantenimiento_m1_a_m3.png)
+
+### Capturas del código T-SQL
+
+Las siguientes figuras complementan las cuadrículas de resultados y muestran las sentencias que produjeron cada salida.
+
+**Figura 4. Consulta C1 · Órdenes cerradas.** WHERE filtra las órdenes cerradas y ORDER BY las organiza por folio.
+
+![Figura 4. Consulta C1 · Órdenes cerradas](./04_codigo_consulta_c1.png)
+
+**Figura 5. Consultas C2 a C5 · Análisis de órdenes y servicios.** El código combina reuniones, agregación y agrupación. HAVING conserva los equipos con al menos dos órdenes.
+
+![Figura 5. Consultas C2 a C5 · Análisis de órdenes y servicios](./05_codigo_consultas_c2_a_c5.png)
+
+**Figura 6. Prueba M1 · Actualización reversible.** UPDATE cambia el precio base a 185.00. ROLLBACK restaura 175.00 y el precio aplicado permanece en 150.00.
+
+![Figura 6. Prueba M1 · Actualización reversible](./06_codigo_actualizacion_m1.png)
+
+**Figura 7. Pruebas M2 y M3 · Borrado e integridad referencial.** M2 comprueba el error 547 al borrar un servicio referenciado. M3 borra un servicio sin referencias y revierte la transacción.
+
+![Figura 7. Pruebas M2 y M3 · Borrado e integridad referencial](./07_codigo_borrado_m2_y_m3.png)
 
 ## 7. Conclusión
 
