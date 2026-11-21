@@ -11,7 +11,7 @@
 
 - 📑 **Reporte técnico** · [Tarea6.1.pdf](./Tarea6.1.pdf)
 - **Tabla comparativa** · [Clasificación y sintaxis](#2-tabla-comparativa)
-- 🎥 **Video explicativo** · [Guion y pendientes](./TODO.md)
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
 
 ---
 
