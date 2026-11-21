@@ -19,12 +19,15 @@ La unidad implementa en SQL Server el modelo de TecSoporte Monclova. Los comando
 ```plaintext
 Unidad6/
 ├── ACT.md
+├── ActUnidad6.txt
 ├── README.md
 ├── Tarea6.1/
 │   ├── README.md
+│   ├── TODO.md
 │   └── Tarea6.1.pdf
 └── Tarea6.2/
     ├── README.md
+    ├── TODO.md
     ├── Tarea6.2.pdf
     ├── 01_schema_ddl.sql
     ├── 02_data_inserts.sql
@@ -44,10 +47,10 @@ Consulta las [instrucciones de la unidad](./ACT.md).
 
 | Actividad | Tema principal | Entregables |
 | --- | --- | --- |
-| [Tarea 6.1](./Tarea6.1/README.md) | Clasificación y sintaxis de ocho comandos LDD y LMD | [Tarea6.1.pdf](./Tarea6.1/Tarea6.1.pdf) |
-| [Tarea 6.2](./Tarea6.2/README.md) | Implementación de esquema, datos, consultas y mantenimiento | [Tarea6.2.pdf](./Tarea6.2/Tarea6.2.pdf) · [Evidencias](#evidencias-de-la-tarea-62) · [DDL](./Tarea6.2/01_schema_ddl.sql) · [Carga](./Tarea6.2/02_data_inserts.sql) · [DML](./Tarea6.2/03_queries_dml.sql) |
+| [Tarea 6.1](#tarea-61) | Sintaxis y clasificación de sentencias SQL | [README de la tarea](./Tarea6.1/README.md) · [Tabla comparativa](./Tarea6.1/README.md#2-tabla-comparativa) · [Tarea6.1.pdf](./Tarea6.1/Tarea6.1.pdf) |
+| [Tarea 6.2](#tarea-62) | Implementación de esquema, datos, consultas y mantenimiento | [README de la tarea](./Tarea6.2/README.md) · [Tarea6.2.pdf](./Tarea6.2/Tarea6.2.pdf) · [Evidencias](#evidencias-de-la-tarea-62) · [DDL](./Tarea6.2/01_schema_ddl.sql) · [Carga](./Tarea6.2/02_data_inserts.sql) · [DML](./Tarea6.2/03_queries_dml.sql) |
 
-### Actividad 6.1 · Sintaxis y clasificación
+### Tarea 6.1
 
 El reporte compara ocho comandos de T-SQL y documenta su sintaxis, parámetros y restricciones. La clasificación establece qué sentencias se utilizan para definir la estructura y cuáles se aplican a los datos.
 
@@ -56,7 +59,7 @@ El reporte compara ocho comandos de T-SQL y documenta su sintaxis, parámetros y
 | LDD · Definición de datos | `CREATE`, `ALTER`, `DROP`, `TRUNCATE` | Crear y modificar objetos, eliminar tablas o vaciar su contenido. |
 | LMD · Manipulación de datos | `INSERT`, `UPDATE`, `DELETE`, `SELECT` | Cargar, modificar, eliminar y consultar registros. |
 
-### Actividad 6.2 · Práctica en SQL Server
+### Tarea 6.2
 
 La práctica crea `TecSoporte_Unidad6_Practica` con **8 tablas y 23 registros ficticios**. Las cinco consultas muestran órdenes cerradas, importes, conteos por equipo e indicadores del catálogo. Las tres pruebas de mantenimiento muestran cómo `ROLLBACK` revierte cambios y cómo una clave foránea impide borrar un servicio referenciado.
 
