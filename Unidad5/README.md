@@ -35,7 +35,6 @@ Unidad5/
     └── evidencia_ssms.png
 ```
 
-Consulta las [instrucciones](./ACT.md).
 
 ---
 
