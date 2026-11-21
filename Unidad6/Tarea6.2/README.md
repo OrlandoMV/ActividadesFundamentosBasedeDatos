@@ -14,7 +14,7 @@
 - 📑 **Reporte técnico** · [Tarea6.2.pdf](./Tarea6.2.pdf)
 - [Capturas de la práctica](#6-evidencias-de-ejecución)
 - **Scripts** · [01_schema_ddl.sql](./01_schema_ddl.sql), [02_data_inserts.sql](./02_data_inserts.sql) y [03_queries_dml.sql](./03_queries_dml.sql)
-- 🎥 **Video explicativo** · [Guion y pendientes](./TODO.md)
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
 
 ---
 
