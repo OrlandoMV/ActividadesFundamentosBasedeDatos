@@ -7,9 +7,12 @@
 - **Semestre:** 5
 - **Unidad:** 6 — Introducción al lenguaje SQL
 
+[Volver al índice de la Unidad 6](../README.md)
+
 ## 📦 Entregables de la Actividad
 
 - 📑 **Reporte técnico** · [Tarea6.2.pdf](./Tarea6.2.pdf)
+- [Capturas de la práctica](#6-evidencias-de-ejecución)
 - **Scripts** · [01_schema_ddl.sql](./01_schema_ddl.sql), [02_data_inserts.sql](./02_data_inserts.sql) y [03_queries_dml.sql](./03_queries_dml.sql)
 - 🎥 **Video explicativo** · [Guion y pendientes](./TODO.md)
 
@@ -60,39 +63,37 @@ Implementar el esquema normalizado de TecSoporte Monclova en SQL Server y demost
 
 ## 6. Evidencias de ejecución
 
-La ejecución en SSMS confirmó la creación de ocho tablas y la carga de 23 filas. El script de consultas y mantenimiento terminó correctamente. Los valores de las secciones 4 y 5 describen los resultados esperados con la carga inicial.
+### Resultados en SSMS
 
-**Figura 1. Creación, carga y órdenes cerradas (C1).** La base tiene 8 tablas y la carga suma 23 filas. Los folios 17 y 19 están cerrados.
+**Figura 1. Creación de la base, carga y consulta C1.** SSMS muestra las 8 tablas, los 23 registros de prueba y las órdenes cerradas de los folios 17 y 19.
 
-![Figura 1. Creación, carga y órdenes cerradas (C1)](./01_resultados_esquema_carga_c1.png)
+![Creación de la base, carga y consulta C1](./01_resultados_esquema_carga_c1.png)
 
-**Figura 2. Consultas de órdenes y catálogo (C2 a C5).** Se ven los totales 500.00 y 175.00, los conteos por equipo y los indicadores del catálogo. Solo el equipo 8 tiene dos o más órdenes.
+**Figura 2. Resultados de las consultas C2 a C5.** Se observan los importes por orden, el conteo por equipo, los indicadores del catálogo y el equipo que cumple el filtro de HAVING.
 
-![Figura 2. Consultas de órdenes y catálogo (C2 a C5)](./02_resultados_consultas_c2_a_c5.png)
+![Resultados de las consultas C2 a C5](./02_resultados_consultas_c2_a_c5.png)
 
-**Figura 3. Pruebas de mantenimiento (M1 a M3).** El precio base vuelve a 175.00. La clave foránea devuelve el error 547 al intentar borrar un servicio referenciado. La prueba de borrado permitido elimina y restaura una fila.
+**Figura 3. Resultados de las pruebas M1 a M3.** Las cuadrículas muestran el precio restaurado, el error 547 por la clave foránea y la fila recuperada con ROLLBACK.
 
-![Figura 3. Pruebas de mantenimiento (M1 a M3)](./03_resultados_mantenimiento_m1_a_m3.png)
+![Resultados de las pruebas M1 a M3](./03_resultados_mantenimiento_m1_a_m3.png)
 
-### Capturas del código T-SQL
+### Código T-SQL
 
-Las siguientes figuras complementan las cuadrículas de resultados y muestran las sentencias que produjeron cada salida.
+**Figura 4. Código de la consulta C1.** WHERE selecciona las órdenes cerradas y ORDER BY las ordena por folio.
 
-**Figura 4. Consulta C1 · Órdenes cerradas.** WHERE filtra las órdenes cerradas y ORDER BY las organiza por folio.
+![Código de la consulta C1](./04_codigo_consulta_c1.png)
 
-![Figura 4. Consulta C1 · Órdenes cerradas](./04_codigo_consulta_c1.png)
+**Figura 5. Código de las consultas C2 a C5.** Las consultas combinan INNER JOIN, LEFT JOIN, funciones de agregación, GROUP BY y HAVING.
 
-**Figura 5. Consultas C2 a C5 · Análisis de órdenes y servicios.** El código combina reuniones, agregación y agrupación. HAVING conserva los equipos con al menos dos órdenes.
+![Código de las consultas C2 a C5](./05_codigo_consultas_c2_a_c5.png)
 
-![Figura 5. Consultas C2 a C5 · Análisis de órdenes y servicios](./05_codigo_consultas_c2_a_c5.png)
+**Figura 6. Código de la actualización M1.** UPDATE cambia el precio base dentro de una transacción. ROLLBACK recupera el precio inicial.
 
-**Figura 6. Prueba M1 · Actualización reversible.** UPDATE cambia el precio base a 185.00. ROLLBACK restaura 175.00 y el precio aplicado permanece en 150.00.
+![Código de la actualización M1](./06_codigo_actualizacion_m1.png)
 
-![Figura 6. Prueba M1 · Actualización reversible](./06_codigo_actualizacion_m1.png)
+**Figura 7. Código de las pruebas de borrado M2 y M3.** El primer bloque comprueba el rechazo por clave foránea. El segundo borra un servicio sin referencias y revierte el cambio.
 
-**Figura 7. Pruebas M2 y M3 · Borrado e integridad referencial.** M2 comprueba el error 547 al borrar un servicio referenciado. M3 borra un servicio sin referencias y revierte la transacción.
-
-![Figura 7. Pruebas M2 y M3 · Borrado e integridad referencial](./07_codigo_borrado_m2_y_m3.png)
+![Código de las pruebas de borrado M2 y M3](./07_codigo_borrado_m2_y_m3.png)
 
 ## 7. Conclusión
 
