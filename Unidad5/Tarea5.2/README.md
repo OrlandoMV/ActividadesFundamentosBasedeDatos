@@ -13,9 +13,9 @@
 
 - 📑 **Reporte técnico** · [Tarea5.2.pdf](./Tarea5.2.pdf)
 - 🖼️ **Flujo de la consulta 9** · [flujo_consulta.png](./flujo_consulta.png)
-- **Scripts de práctica** · [consultas.sql](./consultas.sql) y [validar.py](./validar.py)
+- **Scripts de práctica** · [consultas.sql](./consultas.sql)
 - **SQL Server** · [Esquema y datos de práctica](./practica_sql_server.sql), [verificación](./verificar_sql_server.sql) y [captura PNG](./evidencia_ssms.png).
-- 🎥 **Video explicativo** · [Guion y pendientes](./TODO.md)
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
 
 ---
 
