@@ -23,4 +23,3 @@ Este repositorio reúne las 12 actividades de la materia. El caso de **TecSoport
 
 - Abre el README de cada unidad para consultar la consigna y ubicar los recursos de sus actividades.
 - Abre el README de cada tarea para leer su desarrollo, revisar las evidencias y encontrar las instrucciones para ejecutar sus scripts cuando correspondan.
-- Consulta la [rúbrica de evaluación](./Rubrica.md) y la [portada institucional](./Portada.docx).
