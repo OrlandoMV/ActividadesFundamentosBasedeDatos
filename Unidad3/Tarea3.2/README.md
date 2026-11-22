@@ -14,7 +14,7 @@
 - 📑 **Reporte técnico** · [Tarea3.2.pdf](./Tarea3.2.pdf)
 - 🖼️ **Diagrama** · [esquema_fisico.png](./esquema_fisico.png)
 - **Scripts SQL** · [DDL](./schema.sql) | [Verificación](./verificar.sql).
-- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
+- 🎥 **Video explicativo** · [Guion y pendientes](./TODO.md).
 
 ---
 
@@ -49,9 +49,31 @@ Campos obligatorios salvo indicación expresa. PK indica clave primaria, FK indi
 
 1. Crear o seleccionar una base vacía de prácticas. Ejecutar schema.sql con SQLCMD o en SSMS. El DDL crea ocho tablas, tres vistas y cinco desencadenadores.
 2. Ejecutar verificar.sql. Consulta tablas y claves foráneas del catálogo y prueba un cierre válido, el importe histórico, la cascada de teléfonos y el rechazo de un propietario incorrecto y un cierre incompleto. El bloque de datos válidos usa ROLLBACK.
-3. En SSMS abrir Diagramas de base de datos, agregar las ocho tablas y capturar el diagrama y las salidas del script para la entrega.
+3. En SSMS, abrir **Diagramas de base de datos** y agregar las ocho tablas del esquema para generar el diagrama físico.
 
-**Estado de las evidencias.** Esta versión contiene el diagrama derivado del DDL. La instancia local de SQL Server no aceptó la conexión, de modo que la ejecución en el motor y las capturas del catálogo y del diagrama de SSMS están pendientes. La imagen del reporte representa el esquema previsto.
+La práctica se ejecutó en SQL Server Management Studio (SSMS), en la base TecSoporte_Unidad3_Practica. El anexo documenta la creación del esquema, el diagrama T32, las ocho tablas, las acciones referenciales, el importe histórico y las pruebas de integridad.
+
+### Evidencias en SSMS
+
+**Figura 1. Ejecución del esquema.** SSMS confirma que los comandos de creación se completaron correctamente.
+
+![Ejecución del esquema](./evidencias/01_ejecucion_esquema_ssms.png)
+
+**Figura 2. Diagrama físico T32.** Diagrama generado en SSMS a partir de las ocho tablas y sus relaciones en el esquema tecsoporte.
+
+![Diagrama físico T32](./evidencias/02_diagrama_fisico_ssms.png)
+
+**Figura 3. Catálogo de tablas.** La consulta de catálogo identifica la base TecSoporte_Unidad3_Practica y las ocho tablas del esquema tecsoporte.
+
+![Catálogo de tablas](./evidencias/03_catalogo_tablas_ssms.png)
+
+**Figura 4. Claves foráneas e importe histórico.** La cuadrícula muestra las acciones referenciales visibles y el folio 900001 con total de 300.00.
+
+![Claves foráneas e importe histórico](./evidencias/04_claves_foraneas_importe_ssms.png)
+
+**Figura 5. Pruebas de integridad.** Los tres mensajes OK confirman el cierre válido, el importe histórico y las cascadas, además del rechazo del solicitante incorrecto y del cierre incompleto.
+
+![Pruebas de integridad](./evidencias/05_pruebas_integridad_ssms.png)
 
 ## 5. Conclusión
 
