@@ -14,7 +14,7 @@
 - 📑 **Reporte técnico** · [Tarea3.2.pdf](./Tarea3.2.pdf)
 - 🖼️ **Diagrama** · [esquema_fisico.png](./esquema_fisico.png)
 - **Scripts SQL** · [DDL](./schema.sql) | [Verificación](./verificar.sql).
-- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/vpB9fQ7ujUA)
 
 ---
 
