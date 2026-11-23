@@ -16,7 +16,7 @@
 - 🖼️ **Modelo entidad–relación** · [PNG](./modelo_er.png)
 - 🖼️ **Diccionario gráfico de atributos** · [PNG](./atributos_er.png)
 - 🖼️ **Modelo E-R extendido** · [PNG](./modelo_eer.png)
-- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/fdvj5nkjNgM)
 
 ---
 
