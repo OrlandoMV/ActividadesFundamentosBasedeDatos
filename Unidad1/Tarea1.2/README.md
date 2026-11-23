@@ -16,7 +16,7 @@
 * 🖼️ **Cuadro Sinóptico de Clasificación:** [cuadro_sinoptico.png](./cuadro_sinoptico.png) | [Vector SVG](./cuadro_sinoptico.svg)
 * 🖼️ **Arquitectura de Tres Niveles ANSI/SPARC:** [arquitectura_ansisparc.png](./arquitectura_ansisparc.png) | [Vector SVG](./arquitectura_ansisparc.svg)
 * 🖼️ **Arquitectura Funcional Interna del SGBD:** [arquitectura_sgbd.png](./arquitectura_sgbd.png) | [Vector SVG](./arquitectura_sgbd.svg)
-* 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
+* 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/T3vNakHC56M?si=jIjaZ10opLSa9LsA)
 
 ---
 
