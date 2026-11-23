@@ -13,7 +13,7 @@
 
 - 📑 **Reporte técnico** · [Tarea3.1.pdf](./Tarea3.1.pdf)
 - 🖼️ **Diagrama** · [esquema_relacional.png](./esquema_relacional.png)
-- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/i-XipEPBc54)
 
 ---
 
