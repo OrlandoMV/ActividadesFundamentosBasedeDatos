@@ -15,7 +15,7 @@
 * 📑 **Documento en PDF:** [Tarea1.1.pdf](./Tarea1.1.pdf)
 * 🖼️ **Imagen del Cuadro (Mapa Conceptual):** [mapa_conceptual.png](./mapa_conceptual.png)
 * 🖼️ **Imagen de la Tabla Comparativa:** [tabla_comparativa.png](./tabla_comparativa.png)
-* 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/T3vNakHC56M?si=HNG8q1nwh6od98UV)
+* 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/hOVdOGv1DLQ?si=KWf9F3wV8ise5aET)
 
 ---
 
