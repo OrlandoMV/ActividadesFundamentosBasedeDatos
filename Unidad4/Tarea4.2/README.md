@@ -14,7 +14,7 @@
 - 📑 **Reporte técnico** · [Tarea4.2.pdf](./Tarea4.2.pdf)
 - 🖼️ **Recurso gráfico** · [proceso_normalizacion.png](./proceso_normalizacion.png)
 - **Script SQL** · [normalized_schema.sql](./normalized_schema.sql)
-- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/NtJYqyqgoFU)
 
 ---
 
