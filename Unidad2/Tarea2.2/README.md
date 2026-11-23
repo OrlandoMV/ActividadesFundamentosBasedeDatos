@@ -15,7 +15,7 @@
 - 📑 **Documento en PDF** · [Tarea2.2.pdf](./Tarea2.2.pdf)
 - 🖼️ **Clases de dominio** · [PNG](./clases_dominio.png)
 - 🖼️ **Clases de personal y asignaciones** · [PNG](./clases_personal.png)
-- 🎥 **Video Explicativo en YouTube:** [Video en YouTube]()
+- 🎥 **Video Explicativo en YouTube:** [Video en YouTube](https://youtu.be/Vc5ZhLNC_sk)
 
 ---
 
